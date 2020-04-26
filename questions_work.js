@@ -40,7 +40,7 @@ new Question(
              past that influenced her beliefs about gifts.</span>,
     <span>C. third person narrator describing how each member
              of a family feels about gifts of nature.</span>,
-    <span>D.third person narrator describing a young girl's
+    <span>D. third person narrator describing a young girl's
             thoughts about the importance of strawberries in
             her family's celebrations.</span>,
 )
@@ -240,7 +240,7 @@ new Question(
     experimenters, the Wrights were less inspired by 
     Henson's vision because they were:`,
     <span>F. determined not to copy other designers' work. </span>,
-    <span>G. unaware of Henson's work with hot-air ballons. </span>,
+    <span>G. unaware of Henson's work with hot-air balloons. </span>,
     <span>H. accustomed to a different mode of transportation. </span>,
     <span>J. more inspired by Santos-Dumont's vision. </span>,
 )
@@ -460,7 +460,7 @@ new Question(
      is to discuss:`,
     <span>F. potential explanations for the large number of
              animal fossils in the lake.</span>,
-    <span>G. conditions in the lake htat led to the large number
+    <span>G. conditions in the lake that led to the large number
              of dinosaur fossils.</span>,
     <span>H. the toxic prehistoric plants that grew in or near the
              lake.</span>,
@@ -571,4 +571,557 @@ new Question(
              same direction were found.</span>,
     <span>J. Fossils of pregnant mares that each carried a single
              foal were formed.</span>,
+)
+
+//B02 Reading
+new Question(
+    1,
+    <PassageOne/>,
+    `Which of the following topics preoccupies Alvaro 
+    during his drive?`,
+    <span>A. The way he handled do&ntilde;a Eugenia's inheritance</span>,
+    <span>B. The falling price of the crop he had hoped would 
+             bring him financial security</span>,
+    <span>C. The damage he has done to his reputation by
+             making thoughtless career changes over the years</span>,
+    <span>D. The personal and practical elements that factor
+             into his efforts to succeed in business</span>,
+)
+
+new Question(
+    2,
+    <PassageOne/>,
+    `Which of the following descriptions best fits Alvaro's
+    approach to growing cotton as it is described in the 
+    passage?`,
+    <span>F. Extremely arrogant; he feels entitled to success
+             without working hard to achieve it.</span>,
+    <span>G. Deeply involved; there is little he won't do to
+             succeed.</span>,
+    <span>H. Detached; he thinks of the pursuit of wealth is better
+             left to those who care about it.</span>,
+    <span>J. Na&iuml;ve; he has ignored the advice of those with
+             years of experience growing the crop.</span>,
+)
+
+new Question(
+    3,
+    <PassageOne/>,
+    `How does Alvaro's opinion of coffee and cotton com-
+    pare to that of his mother's?`,
+    <span>A. Alvaro thinks that cotton is the superior crop, but
+             his mother thinks coffee is an equally lucrative
+             crop.</span>,
+    <span>B. Alvaro thinks that cotton is the better wartime
+             crop, but his mother thinks coffee is.</span>,
+    <span>C. Alvaro thinks that both crops are susceptible to 
+             insect infestation, but his mother thinks that nei- 
+             ther is.</span>,
+    <span>D. Alvaro thinks that cotton holds the more promising 
+             future for him, but his mother thinks coffee does.</span>,
+)
+
+new Question(
+    4,
+    <PassageOne/>,
+    `How does Alvaro view the burden responsibility his
+    mother says she wants lifted from her shoulders?`,
+    <span>F. As the barrier between Alvaro and his success at 
+             growing cotton</span>,
+    <span>G. As the sorrow that mars the otherwise happy life 
+             of his mother</span>,
+    <span>H. As an enduring presence that his mother works to 
+             her advantage</span>,
+    <span>J. As a heavy weight that lifted from Alvaro's shoul- 
+             ders when he defied his mother</span>,
+)
+
+new Question(
+    5,
+    <PassageOne/>,
+    `Which of the following phrases most accurately
+    describes the last paragraph?`,
+    <span>A. Wishful thinking supported by more wishful 
+             thinking</span>,
+    <span>B. Painful realizations followed by widespread 
+             blaming</span>,
+    <span>C. A sentiment and the experiences that reverse it</span>,
+    <span>D. A stand taken by one person and supported by 
+             another</span>,
+)
+
+new Question(
+    6,
+    <PassageOne/>,
+    `According to the passage, where is Alvaro headed in 
+    his car on a late afternoon in early November?`,
+    <span>F. His plantation outside Usulut&aacute;n</span>,
+    <span>G. His law office</span>,
+    <span>H. His mother's hacienda</span>,
+    <span>J. His home in San Salvador</span>,
+)
+
+new Question(
+    7,
+    <PassageOne/>,
+    `Which of the following actions is presented in the pas- 
+    sage as being more figurative than literal?`,
+    <span>A. "Gripped the wheel" (line 1)</span>,
+    <span>B. "Took over the reins" (line 29)</span>,
+    <span>C. "Heard his mother's lamentations" (line 37-38)</span>,
+    <span>D. "Sown the best seed" (lines 54-55)</span>,
+)
+
+new Question(
+    8,
+    <PassageOne/>,
+    `The quality of glass that is most strongly alluded to in
+    lines 36-40 is:`,
+    <span>F. fragility.</span>,
+    <span>G. transparency.</span>,
+    <span>H. smoothness.</span>,
+    <span>J. sharp edges.</span>,
+)
+
+new Question(
+    9,
+    <PassageOne/>,
+    `To what does Alvaro most directly attribute the rise of
+    cotton prices?`,
+    <span>A. The end of a world war</span>,
+    <span>B. The effectiveness of new pesticides</span>,
+    <span>C. The growth of the local textile industry</span>,
+    <span>D. The failure of the previous year's harvest</span>,
+)
+
+new Question(
+    10,
+    <PassageOne/>,
+    `In the context of the passage, the primary function of
+    lines 63-67 is to list the occupations that Alvaro:`,
+    <span>F. dabbled in but found less compelling than cotton
+             farming.</span>,
+    <span>G. held in high regard though his mother did not.</span>,
+    <span>H. had rejected as representing the foolish notions of 
+             his youth.</span>,
+    <span>J. envisioned as being within his reach were he to 
+             succeed in farming cotton.</span>,
+)
+
+new Question(
+    11,
+    <PassageTwo/>,
+    `Which of the following statements best describes the
+    organizational structure of the passage?`,
+    <span>A. The author describes a psychological concept and
+             then explores aspects of that concept that support a
+             central claim.</span>,
+    <span>B. The author presents theories about a psychological
+             concept by describing his own experiences with it.</span>,
+    <span>C. The author provides a chronology of the develop-
+             ment of a psychological concept.</span>,
+    <span>D. The author presents a problem from the field of 
+             psychology and then offers several possible solu-
+             tions to that problem.</span>,
+)
+
+new Question(
+    12,
+    <PassageTwo/>,
+    `Based on the passage, which of the following state-
+    ments best captures the central idea behind the concept
+    of channel capacity?`,
+    <span>F. "There is a concept in cognitive psychology called
+             the channel capacity" (lines 1-2).</span>,
+    <span>G. "This is remarkably consistent finding" (line 14).</span>,
+    <span>H. "As human beings, we can only handle so much
+             information at once" (lines 23-24).</span>,
+    <span>J. "But if you think about it, we clearly have a chan-
+             nel capacity for feelings as well" (lines 27-28).</span>,
+)
+
+new Question(
+    13,
+    <PassageTwo/>,
+    `According to the passage, which of the following is a 
+    theory about the evolution of brain size in primates
+    that is supported by some scientists but NOT by
+    Dunbar?`,
+    <span>A. Primates' brains increased in size only slightly as
+             primates evolved.</span>,
+    <span>B. Primates' brains became larger as primates' social
+             groups became larger.</span>,
+    <span>C. Primates' brains became larger because primates
+             changed their eating habits.</span>,
+    <span>D. Primates' brains evolved relatively slowly in com-
+             parison to the rest of their bodies.</span>,
+)
+
+new Question(
+    14,
+    <PassageTwo/>,
+    `The main idea of the last paragraph is that:`,
+    <span>F. as brains evolve, they decrease in size.</span>,
+    <span>G. Dunbar has gone to great lengths to try to prove
+             his argument.</span>,
+    <span>H. the neocortex is the part of the brain responsible
+             for tracking social relationships.</span>,
+    <span>J. humans have the largest brains of all primates
+             because humans socialize in the largest groups.</span>,
+)
+
+new Question(
+    15,
+    <PassageTwo/>,
+    `The passage defines a sympathy group most specifi-
+    cally as:`,
+    <span>A. a small group of animals of the same species.</span>,
+    <span>B. any cluster of primates that live together.</span>,
+    <span>C. the people one feels truly close to.</span>,
+    <span>D. a person's immediate family.</span>,
+)
+
+new Question(
+    16,
+    <PassageTwo/>,
+    `Which of the following statements best describes how
+    the author views Dunbar's theory of social channel
+    capacity?`,
+    <span>F. He is intrigued by Dunbar's theory and finds
+             Dunbar's argument compelling.</span>,
+    <span>G. He believes Dunbar's argument is problematic but
+             cannot disprove the theory.</span>,
+    <span>H. He is insure that Dunbar's theory will ever be
+             accepted by the larger scientific community.</span>,
+    <span>J. He believes Dunbar's argument is indisputable and
+             that the supporting research is exhaustive.</span>,
+)
+
+new Question(
+    17,
+    <PassageTwo/>,
+    `Based on the passage, the assertion that primates have
+    the largest brains of all mammals is presented as:`,
+    <span>A. a fact that serves as the author's main point in the
+             passage.</span>,
+    <span>B. a fact that serves as the basis for Dunbar's
+             argument.</span>,
+    <span>C. an opinion the author offers to explain Dunbar's
+             theory.</span>,
+    <span>D. an opinion Dunbar is trying to prove with his
+             theory.</span>,
+)
+
+new Question(
+    18,
+    <PassageTwo/>,
+    `As it is used in line 56, the word sophisticated most
+    nearly means:`,
+    <span>F. worldly.</span>,
+    <span>G. complex.</span>,
+    <span>H. cultured.</span>,
+    <span>J. genteel.</span>,
+)
+
+new Question(
+    19,
+    <PassageTwo/>,
+    `According to the passage, one reason some scientists
+    believe an animal uses more brainpower to eat fruits
+    than it does to eat leaves is because fruits:`,
+    <span>A. are smaller than leaves and require practice to eat.</span>,
+    <span>B. cannot be eaten by all animals, unlike leaves.</span>,
+    <span>C. offer more nutrition than most leaves.</span>,
+    <span>D. are not as easily accessible as leaves.</span>,
+)
+
+new Question(
+    20,
+    <PassageTwo/>,
+    `Based on the passage, which of the following state-
+    ments, if true, would most WEAKEN Dunbar's theory?`,
+    <span>F. Some primates with relatively small neocortexes
+             socialize in larger groups than humans.</span>,
+    <span>G. The human brain is continuing to evolve as social
+             networking expands.</span>,
+    <span>H. Except for humans, apes have the largest brains
+             among primates. </span>,
+    <span>J. Mountain gorillas live in groups that average nine
+             individuals.</span>,
+)
+
+new Question(
+    21,
+    <PassageThree/>,
+    `The organization of Passage A is best described as a
+    list of:`,
+    <span>A. innovations in miniature art followed by an expla- 
+             nation of techniques for creating miniatures.</span>,
+    <span>B. misconceptions about miniature art followed by a
+             personal account of working with miniatures.</span>,
+    <span>C. qualities miniature things share, including descrip- 
+             tive examples that illustrate these qualities.</span>,
+    <span>D. reasons artists create miniature things, including
+             testimonies from major artists.</span>,
+)
+
+new Question(
+    22,
+    <PassageThree/>,
+    `The example of "dollhouse land" (lines 18-22) primar-
+    ily serves to illustrate the author's point that miniatures
+    can encourage people to:`,
+    <span>F. live life at a slower pace.</span>,
+    <span>G. disregard their own size.</span>,
+    <span>H. remember important places.</span>,
+    <span>J. look hard at hidden crevices.</span>,
+)
+
+new Question(
+    23,
+    <PassageThree/>,
+    `As it is used in line 33, the word mediated most nearly
+    means:`,
+    <span>A. considered.</span>,
+    <span>B. advised.</span>,
+    <span>C. solved.</span>,
+    <span>D. aided.</span>,
+)
+
+new Question(
+    24,
+    <PassageThree/>,
+    `The author of Passage B most likely summarizes the
+    assertions of the essayist Benjamin in order to:`,
+    <span>F. explain the principle the Morgan Library used
+             when deciding whether to show the original prayer
+             book or a reproduction.</span>,
+    <span>G. present a major argument in the art field that the
+             passage author rejected when deciding to view the
+             prayer book in person.</span>,
+    <span>H. support the passage author's assertion that the
+             prayer book is a gallery unto itself.</span>,
+    <span>J. offer a second reviewer's opinion of the prayer
+             book.</span>,
+)
+
+new Question(
+    25,
+    <PassageThree/>,
+    `According to Passage B, were the author's expecta-
+    tions about seeing the prayer book in person ultimately
+    met?`,
+    <span>A. Yes, because he was able to view detail of the
+             book down to its brushstrokes.</span>,
+    <span>B. Yes, because he was able to learn about the book's
+             history while at the exhibit.</span>,
+    <span>C. No, because he was able to view the book in
+             greater detail using the library's website.</span>,
+    <span>D. No, because he found the artwork in the book to be
+             of poor quality.</span>,
+)
+
+new Question(
+    26,
+    <PassageThree/>,
+    `The author of Passage B indicates that the figures in
+    the prayer book are approximately the size of:`,
+    <span>F. a fingernail.</span>,
+    <span>G. a pucker of canvas.</span>,
+    <span>H. the palm of a hand.</span>,
+    <span>J. a single hair.</span>,
+)
+
+new Question(
+    27,
+    <PassageThree/>,
+    `The author of Passage B speculates that one reason the
+    prayer book was commissioned was to allow its owners
+    to:`,
+    <span>A. enjoy the extravagance of possessing an elaborate
+             work of art.</span>,
+    <span>B. avoid the unpredictability of early printing methods.</span>,
+    <span>C. help the book's artist create miniatures for a
+             living.</span>,
+    <span>D. instill a love of reading in Queen Claude.</span>,
+)
+
+new Question(
+    28,
+    <PassageThree/>,
+    `Compared to the writing style of Passage B, the writ-
+    ing style of Passage A is more:`,
+    <span>F. indignant and argumentative.</span>,
+    <span>G. contemplative and whimsical.</span>,
+    <span>H. flippant and sarcastic.</span>,
+    <span>J. literal and scientific.</span>,
+)
+
+new Question(
+    29,
+    <PassageThree/>,
+    `Which of the following statements best captures a
+    main difference in the focus of the two passages?`,
+    <span>A. Passage A focuses on the appeal of miniatures in
+             general, while Passage B focuses on the experi-
+             ence of viewing a single miniature object.</span>,
+    <span>B. Passage A focuses on the author's memories of
+             miniatures from her childhood, while Passage B
+             focuses on a famous collection of miniatures.</span>,
+    <span>C. Passage A focuses on the historical significance of
+             miniatures, while Passage B focuses on how
+             miniatures influence contemporary art.</span>,
+    <span>D. Passage A focuses on miniatures as an art form,
+             while Passage B focuses on the practical uses of 
+             miniatures.</span>,
+)
+
+new Question(
+    30,
+    <PassageThree/>,
+    `Based on the passages, both authors would most likely
+    agree that an important factor contributing to the artis-
+    tic value of a miniature is the artist's ability to:`,
+    <span>F. create working replicas of larger, real objects.</span>,
+    <span>G. master the use of unusual and costly materials.</span>,
+    <span>H. conceal abstract art within more realistic images.</span>,
+    <span>J. render objects and images with painstaking detail.</span>,
+)
+
+new Question(
+    31,
+    <PassageFour/>,
+    `Within the passage, the discussion of Wing's scientific
+    research primarily functions as:`,
+    <span>A. an example of a study that resulted in discov-
+             ery of the Big Red.</span>,
+    <span>B. an illustration of the methods used to date geologi-
+             cal epochs.</span>,
+    <span>C. a counterargument to current assumptions about 
+             the PETM.</span>,
+    <span>D. a framework for exploring the PETM and various
+             investigations of it.</span>,
+)
+
+new Question(
+    32,
+    <PassageFour/>,
+    `As summarized in the passage, Wing's research
+    focuses primarily on:`,
+    <span>F. comparing fossilized plant life from the Paleocene
+             and the Eocene.</span>,
+    <span>G. measuring the carbon content of fossilized teeth
+             from the time of the PETM.</span>,
+    <span>H. determining the rock and mineral content of the
+             Big Red.</span>,
+    <span>J. analyzing the mammal fossils found throughout
+             the Big Horn Basin.</span>,
+)
+
+new Question(
+    33,
+    <PassageFour/>,
+    `The last three paragraphs (lines 68-89) support which
+    of the following conclusions about Wing and his
+    research?`,
+    <span>A. He has yet to find concrete support for his
+             hypothesis.</span>,
+    <span>B. He has serious reservations about his hypothesis
+             based on the evidence he has found.</span>,
+    <span>C. He has discovered evidence that supports his
+             hypothesis.</span>,
+    <span>D. He is relying on the findings of other researchers
+             who study ancient plants in order to support his 
+             hypothesis.</span>,
+)
+
+new Question(
+    34,
+    <PassageFour/>,
+    `Based on the passage, which of the following features
+    of the Big Horn Basin serves as the best evidence that
+    the transition between the Paleocene and the Eocene
+    was, geologically speaking, abrupt?`,
+    <span>F. The abundance of fossilized sea creatures</span>,
+    <span>G. The abundance of fossilized Eocene leaves</span>,
+    <span>H. The jagged mountain ranges surrounding the area</span>,
+    <span>J. The band of light gray sandstone at Polecat Bench</span>,
+)
+
+new Question(
+    35,
+    <PassageFour/>,
+    `Which of the following events referred to in the pas-
+    sage occurred last chronologically?`,
+    <span>A. Miniature fossils were found at Polecat Bench.</span>,
+    <span>B. Wing began his methodical search for fossils in the
+             Big Horn Basin.</span>,
+    <span>C. Kennett and Stott investigated a major extinction 
+             of small, shelly creatures.</span>,
+    <span>D. Koch, Zachos, and Gingerich measured the carbon
+             content of fossilized teeth and nodules.</span>,
+)
+
+new Question(
+    36,
+    <PassageFour/>,
+    `The passage specifically mentions which of the follow-
+    ing types of leaf fossils as a type that was found by
+    Wing?`,
+    <span>F. Legume</span>,
+    <span>G. Conifer</span>,
+    <span>H. Cypress</span>,
+    <span>J. Broadleaf</span>,
+)
+
+new Question(
+    37,
+    <PassageFour/>,
+    `The passage indicates that which of the following is
+    true of  the first relatives of deer`,
+    <span>A. They had few specializations.</span>,
+    <span>B. They were a precursor to the first horses.</span>,
+    <span>C. They are present in the Paleocene fossil record.</span>,
+    <span>D. They appeared during the early Eocene.</span>,
+)
+
+new Question(
+    38,
+    <PassageFour/>,
+    `According to the passage, which of the following sci-
+    entists focused his research on an area outside of the
+    Big Horn Basin?`,
+    <span>F. Wing</span>,
+    <span>G. Kennett</span>,
+    <span>H. Gingerich</span>,
+    <span>J. Zachos</span>,
+)
+
+new Question(
+    39,
+    <PassageFour/>,
+    `As it is used in line 58, the phrase geochemical glitch
+    most nearly refers to the:`,
+    <span>A. low carbon levels found in 55.5-million-year-old
+             Big Horn Basin rocks.</span>,
+    <span>B. spike in atmospheric carbon that occurred during
+             the late Paleocene.</span>,
+    <span>C. steep rise in deep-ocean carbon levels that
+             occurred during the late Paleocene.</span>,
+    <span>D. low carbon levels found in fossilized plants.</span>,
+)
+
+new Question(
+    40,
+    <PassageFour/>,
+    `The primary function of the eighth paragraph (lines
+        63-67) is to:`,
+    <span>F. introduce Wing's theories about the Polecat Bench
+             mammal fossils.</span>,
+    <span>G. summarize the passage's preceding discussion of
+             the PETM.</span>,
+    <span>H. shift the passage's focus back to Wing and his
+             study of fossilized plants.</span>,
+    <span>J. cast doubt on the previously discussed findings of
+             Koch, Zachos, and Gingerich.</span>,
 )
