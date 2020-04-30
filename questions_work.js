@@ -574,6 +574,7 @@ new Question(
 )
 
 //B02 Reading
+
 new Question(
     1,
     <PassageOne/>,
@@ -1124,4 +1125,435 @@ new Question(
              study of fossilized plants.</span>,
     <span>J. cast doubt on the previously discussed findings of
              Koch, Zachos, and Gingerich.</span>,
+)
+
+//A09, Reading 
+
+new Question(
+    1,
+    <PassageOne/>,
+    `Which of the following events referred to in the passage
+    happened first chronologically?`,
+    <span>A. The author woke up at 5:00 a.m.</span>,
+    <span>B. The students on the canal boats quieted down.</span>,
+    <span>C. The author's bus passed the Amsterdam airport.</span>,
+    <span>D. Flowers and plants started arriving at the auction.</span>,
+)
+
+new Question(
+    2,
+    <PassageOne/>,
+    `The main idea of the first paragraph is that:`,
+    <span>F. the author is not accustomed to getting up very
+             early in the morning.</span>,
+    <span>G. the author is surprised by how quiet Amsterdam is
+             early in the morning.</span>,
+    <span>H. thought Amsterdam in general is made up of late
+             risers, the local flower trade is busiest in early
+             morning.</span>,
+    <span>J. because Amsterdam is usually bustling with activ-
+             ity, it is advisable to meet with people in the local
+             flower trade early in the morning.</span>,
+)
+
+new Question(
+    3,
+    <PassageOne/>,
+    `The author most strongly suggests that when meeting
+    with a person in the lofwer trade in the morning, that
+    person will look impatient because:`,
+    <span>A. people in the flower trade are generally late risers.</span>,
+    <span>B. he or she is anxious about wasting time.</span>,
+    <span>C. he or she can't remember why the meeting was
+             scheduled in the first place.</span>,
+    <span>D. people living in Amsterdam are always on the go.</span>,
+)
+
+new Question(
+    4,
+    <PassageOne/>,
+    `The informaiton between the dashes in lines 23-25
+    most strongly suggests that flower markets generally
+    tend to:`,
+    <span>F. function best in small cities.</span>,
+    <span>G. merge if both markets are successful.</span>,
+    <span>H. operate in a competitive atmosphere.</span>,
+    <span>J. suffer when competing vendors appear.</span>,
+)
+
+new Question(
+    5,
+    <PassageOne/>,
+    `Based on the author's discussion of the "exhausting
+    journey" (line 45) experienced by flowers sent to auction,
+    the author would most likely agree with the idea
+    that these flowers:`,
+    <span>A. are surprisingly resilient.</span>,
+    <span>B. are picked past their prime.</span>,
+    <span>C. have remarkably complex biological needs.</span>,
+    <span>D. should be shipped by plane to remain fresh.</span>,
+)
+
+new Question(
+    6,
+    <PassageOne/>,
+    `Based on the passage, the main way the US flower
+    market differs from the European floewr market is that:`,
+    <span>F. flowers in the United States are usually shipped
+             directly to customers.</span>,
+    <span>G. flowers in the United States are transported by
+             truck, rail, and plane.</span>,
+    <span>H. there are no wholesale flower markets in the 
+             United States.</span>,
+    <span>J. there is no centralized flower market in the United
+             States.</span>,
+)
+
+new Question(
+    7,
+    <PassageOne/>,
+    `As it is used in line 18, the word modest most nearly means:`,
+    <span>A. bashful.</span>,
+    <span>B. simple.</span>,
+    <span>C. middling.</span>,
+    <span>D. decent.</span>,
+)
+
+new Question(
+    8,
+    <PassageOne/>,
+    `Details in the third paragraph (lines 33-46) indicate
+    that one similarity between the flower industry in the
+    United States and the flower industry in Holland is that
+    both:`,
+    <span>F. have well-known high-tech flower auctions.</span>,
+    <span>G. are supplied primarily by growers in Europe.</span>,
+    <span>H. conduct major flower auctions all year long.</span>,
+    <span>J. use some of the same growers and wholesalers.</span>,
+)
+
+new Question(
+    9,
+    <PassageOne/>,
+    `The author refers to the Magic Kingdom and Epcot
+    theme parks mainly to:`,
+    <span>A. indicate that the Aalsmeer market is more crowded
+             than the two theme parks combined.</span>,
+    <span>B. provide support for the idea that the Aalsmeer
+             market is a lot of fun to attend.</span>,
+    <span>C. suggest that the Aalsmeer market employs as many
+             people as the two theme parks do.</span>,
+    <span>D. help emphasize the sprawling space the Aalsmeer
+             market occupies.</span>,
+)
+
+new Question(
+    10,
+    <PassageOne/>,
+    `According to the passage, which of the following numbers
+    of flowers is sold at the Aalsmeer auction?`,
+    <span>F. Ten thousand flowers per day</span>,
+    <span>G. Half of the flowers grown in Holland</span>,
+    <span>H. Twenty percent of the world's cut flowers</span>,
+    <span>J. Eighty percent of the flowers in the European market</span>,
+)
+
+new Question(
+    11,
+    <PassageTwo/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    12,
+    <PassageTwo/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    13,
+    <PassageTwo/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    14,
+    <PassageTwo/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    15,
+    <PassageTwo/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    16,
+    <PassageTwo/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    17,
+    <PassageTwo/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    18,
+    <PassageTwo/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    19,
+    <PassageTwo/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    20,
+    <PassageTwo/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    21,
+    <PassageThree/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    22,
+    <PassageThree/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    23,
+    <PassageThree/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    24,
+    <PassageThree/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    25,
+    <PassageThree/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    26,
+    <PassageThree/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    27,
+    <PassageThree/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    28,
+    <PassageThree/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    29,
+    <PassageThree/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    30,
+    <PassageThree/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    31,
+    <PassageFour/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    32,
+    <PassageFour/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    33,
+    <PassageFour/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    34,
+    <PassageFour/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    35,
+    <PassageFour/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    36,
+    <PassageFour/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    37,
+    <PassageFour/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    38,
+    <PassageFour/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
+)
+
+new Question(
+    39,
+    <PassageFour/>,
+    ``,
+    <span>A. </span>,
+    <span>B. </span>,
+    <span>C. </span>,
+    <span>D. </span>,
+)
+
+new Question(
+    40,
+    <PassageFour/>,
+    ``,
+    <span>F. </span>,
+    <span>G. </span>,
+    <span>H. </span>,
+    <span>J. </span>,
 )
