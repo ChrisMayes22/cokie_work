@@ -1261,51 +1261,76 @@ new Question(
 new Question(
     11,
     <PassageTwo/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `Which of the following statements best captures the 
+    broad, general message of the passage?`,
+    <span>A. The most effective leader pairs strong inner confi-
+             dence with public displays of humility.</span>,
+    <span>B. Leaving a comfortable, familiar life for the 
+             unknown will likely have great rewards.</span>,
+    <span>C. Even a leader who is strongly supported by the
+             public may have deep, private insecurities.</span>,
+    <span>D. Electing someone who is not prepared to lead many
+             have dangerous consequences.</span>,
 )
 
 new Question(
     12,
     <PassageTwo/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `One function in the passage of including information
+    about Mount Vernon and Martha Washington is to
+    create a contrast between George Washington's:`,
+    <span>F. carefree, casual demeanor around his family and
+             his stern aspect with advisors and aides.</span>,
+    <span>G. idyllic, established home life and the uncertainty
+             of what was to come in his public life.</span>,
+    <span>H. restlessness at home and his calm, collected sense
+             of industriousness as president. </span>,
+    <span>J. enjoyment of private home life and his dislike of
+             working without close advisors in government.</span>,
 )
 
 new Question(
     13,
     <PassageTwo/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `As it is used in line 35, the phrase "stiff verbal minuet"
+    refers to the interaction between George Washington
+    and Thomson as Washington:`,
+    <span>A. writes a letter to Langdon, the president pro tempore.</span>,
+    <span>B. excuses himself from Thomson so that he may say
+             goodbye to his wife, Martha.</span>,
+    <span>C. is officially told that he has been elected president
+             of the United States and accepts the position.</span>,
+    <span>D. formally resigns from his position as commander
+             in chief of the army and appoints a replacement.</span>,
 )
 
 new Question(
     14,
     <PassageTwo/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `The passage author argues that the letter read to
+    George Washington on April 14, 1789, suggests
+    Langdon's concern that:`,
+    <span>F. Washington would be forced by Congress to
+             confer his duties to a president pro tempore for
+             several months.</span>,
+    <span>G. Washington had been behaving inappropriately as 
+        commander in chief of the army.</span>,
+    <span>H. the problems facing the country were insurmount-
+        able or any new president.</span>,
+    <span>J. there was a chance that Washington would reject
+        the opportunity to become president.</span>,
 )
 
 new Question(
     15,
     <PassageTwo/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `The passage characterized which of the following
+    people as expressing a subtle acknowledgement of 
+    George Washington's burden?`,
+    <span>A. Knox</span>,
+    <span>B. Langdon</span>,
+    <span>C. Rutledge</span>,
+    <span>D. Thomson</span>,
 )
 
 new Question(
