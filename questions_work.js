@@ -1160,7 +1160,7 @@ new Question(
     3,
     <PassageOne/>,
     `The author most strongly suggests that when meeting
-    with a person in the lofwer trade in the morning, that
+    with a person in the flower trade in the morning, that
     person will look impatient because:`,
     <span>A. people in the flower trade are generally late risers.</span>,
     <span>B. he or she is anxious about wasting time.</span>,
@@ -1172,7 +1172,7 @@ new Question(
 new Question(
     4,
     <PassageOne/>,
-    `The informaiton between the dashes in lines 23-25
+    `The information between the dashes in lines 23-25
     most strongly suggests that flower markets generally
     tend to:`,
     <span>F. function best in small cities.</span>,
@@ -1198,7 +1198,7 @@ new Question(
     6,
     <PassageOne/>,
     `Based on the passage, the main way the US flower
-    market differs from the European floewr market is that:`,
+    market differs from the European flower market is that:`,
     <span>F. flowers in the United States are usually shipped
              directly to customers.</span>,
     <span>G. flowers in the United States are transported by
@@ -1336,249 +1336,333 @@ new Question(
 new Question(
     16,
     <PassageTwo/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `According to the passage, the congressional delay in 
+    certifying George Washington's election allowed 
+    Washington time to:`,
+    <span>F. steep himself in his doubts and fears, causing them 
+             to grow.</span>,
+    <span>G. share with others his hopes for and confidence in 
+             the republican government.</span>,
+    <span>H. closely consider the herculean task ahead, which 
+             eased some of his worry. </span>,
+    <span>J. confer with his aides about the difficulties facing
+             the country.</span>,
 )
 
 new Question(
     17,
     <PassageTwo/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `The passage indicates that Thomson's journey to
+    Mount Vernon was made difficult bby:`,
+    <span>A. the lack of party accompany him, which left
+             him vulnerable to bandits.</span>,
+    <span>B. his need to return as quickly as possible to his
+             duties as the secretary of Congress.</span>,
+    <span>C. terrile weather and a route that included river
+             crossings and bad roads.</span>,
+    <span>D. his miscalculation of the route, which led to a
+             long, arduous detour.</span>,
 )
 
 new Question(
     18,
     <PassageTwo/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `As it is used in line 43, the word "mark" most nearly
+    means:`,
+    <span>F. boundary.</span>,
+    <span>G. sign.</span>,
+    <span>H. impact.</span>,
+    <span>J. stain.</span>,
 )
 
 new Question(
     19,
     <PassageTwo/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `The passage most strongly implies that while
+    Washington was commander in chief of the army, one
+    way he had preserved his good reputation was by:`,
+    <span>A. giving speeches.</span>,
+    <span>B. publishing pamphlets.</span>,
+    <span>C. writing letters.</span>,
+    <span>D. remaining silent.</span>,
 )
 
 new Question(
     20,
     <PassageTwo/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `The passage author makes clear Martha Washington's
+    view that her husband's return to public life was:`,
+    <span>F. an inevitable event for him.</span>,
+    <span>G. a subtle rejection of his private life with her.</span>,
+    <span>H. an inexcusable decision for him.</span>,
+    <span>J. a source of pride for her.</span>,
 )
 
 new Question(
     21,
     <PassageThree/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `In Passage A, the first paragraph (lines 1-7) functions
+    mainly to emphasize the:`,
+    <span>A. leadership skills Sze demonstrated in relegating
+             work to her assistants at the Asia Society.</span>,
+    <span>B. ingenuity and problem solving Sze used to create
+             her eight sculptures at the Asia Society.</span>,
+    <span>C. amount of time and materials Sze needed to create
+             her eight sculptures at the Asia Society.</span>,
+    <span>D. amount of space Sze's eight sculptures took up on
+             the second floor of the Asia Society.</span>,
 )
 
 new Question(
     22,
     <PassageThree/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `Which of the following sculptural installations would
+    be most conceptually similar to Sze's sculptural instal-
+    lations discussed in the second paragraph of Passage A
+    (lines 8-21)?`,
+    <span>F. An oversized tricycle hanging above a sofa</span>,
+    <span>G. A large slab of marble with streams of water rip-
+             pling over it</span>,
+    <span>H. Rubber bands and nails joined together to form a
+             network of cables</span>,
+    <span>J. Paper clips strewn about randomly on a gallery
+             floor</span>,
 )
 
 new Question(
     23,
     <PassageThree/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `As it is used in line 13, the word "elaborate" most nearly
+    means:`,
+    <span>A. luxurious.</span>,
+    <span>B. exact.</span>,
+    <span>C. overdone.</span>,
+    <span>D. complicated.</span>,
 )
 
 new Question(
     24,
     <PassageThree/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `It can most reasonably be inferred from Passage A that
+    the main reason Sze requested that the floor-to-ceiling
+    window be uncovered is that she wanted the window to
+    contribute to her exploration of the:`,
+    <span>F. relationship between landscape and architecture.</span>,
+    <span>G. influences of consumerism on cultural constructs.</span>,
+    <span>H. differences between Asian and Western art.</span>,
+    <span>J. effects of urban sprawl on the environment.</span>,
 )
 
 new Question(
     25,
     <PassageThree/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `In Passage A, the author most likely references
+    Bernini's "The Ecstasy of St. Teresa" in order to
+    emphasize that Sze's installations appear:`,
+    <span>A. antiquated.</span>,
+    <span>B. symmetrical.</span>,
+    <span>C. ornate.</span>,
+    <span>D. lively.</span>,
 )
 
 new Question(
     26,
     <PassageThree/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `The author of Passage B is most critical of which art-
+    works in Sze's show "Infinite Line"?`,
+    <span>F. Two-dimensional works on paper</span>,
+    <span>G. Three-dimensional works on paper</span>,
+    <span>H. Sculptural installations</span>,
+    <span>J. Collages</span>,
 )
 
 new Question(
     27,
     <PassageThree/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `As it is used in line 57, the word "fashions" most nearly
+    means:`,
+    <span>A. accommodates.</span>,
+    <span>B. initiates.</span>,
+    <span>C. combines.</span>,
+    <span>D. wears.</span>,
 )
 
 new Question(
     28,
     <PassageThree/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `Which of the following statements best captures a dif-
+    ference in the purposes of the passages?`,
+    <span>F. Passage A provides a critique of how Sze concep-
+             tualizes her art shows, while Passage B provides a
+             comparison between Sze and other Asian Ameri-
+             can artists.</span>,
+    <span>G. Passage A provides a glimpse into Sze's creative
+             process, while Passage B provides a critique of her
+             art show "Infinite Line."</span>,
+    <span>H. Passage A provides a comparison of Sze's per-
+             sonal and public personas, while Passage B pro-
+             vides a narrative concerning how Sze discovered
+             Asian art.</span>,
+    <span>J. Passage A provides an overview of Sze's develop-
+             ment as an artist, while Passage B provides an
+             interpretation of Sze's artwork.</span>,
 )
 
 new Question(
     29,
     <PassageThree/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `Compared to Passage B, Passage A provides more
+    information regarding how Sze:`,
+    <span>A. places objects within a gallery space.</span>,
+    <span>B. feels about the artists Duchamp and Bernini.</span>,
+    <span>C. reacts to critical interpretations of her artwork.</span>,
+    <span>D. incorporates classical Chinese imagery into her
+             sculptural installations.</span>,
 )
 
 new Question(
     30,
     <PassageThree/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `The authors of Passage A and Passage B both praise
+    Sze for her use of:`,
+    <span>F. organic material in her collages.</span>,
+    <span>G. detail in her sculptural installations.</span>,
+    <span>H. proportion in her works on paper.</span>,
+    <span>J. natural light in her sculpture gardens.</span>,
 )
 
 new Question(
     31,
     <PassageFour/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `One main purpose of the passage is to:`,
+    <span>A. analyze why New Zealand has long been an ideal 
+             environment for penguins.</span>,
+    <span>B. compare two leading theories about penguin habi-
+             tats based on evidence from the fossil record.</span>,
+    <span>C. present evidence that penguin populations have 
+             steadily declined since the late Cretaceous.</span>,
+    <span>D. describe a particular fossil discovery that led to a 
+             better understanding of how penguins evolved.</span>,
 )
 
 new Question(
     32,
     <PassageFour/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `Which of the following statements best summarizes the
+    authors' claim about the relationship between the 
+    humeral arterial plexus and cold environments?`,
+    <span>F. The early emergence of the humeral arterial 
+             plexus allowed penguins to later inhabit cold 
+             environments.</span>,
+    <span>G. The humeral arterial plexus appears to have little
+             to do with penguins' ability to survive in cold
+             environments.</span>,
+    <span>H. The humeral arterial plexus allows penguins to
+             survive in cold environments by increasing pen-
+             guins' heart rates.</span>,
+    <span>J. Once penguins adapted to the sea ice shelves that
+             formed when the planet cooled, they no longer had
+             a need for the humeral arterial plexus.</span>,
 )
 
 new Question(
     33,
     <PassageFour/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `It can reasonably be inferred from the passage that the
+    phrase "what was bad for those creatures" (line 24)
+    refers to:`,
+    <span>A. a change in food sources for early penguins.</span>,
+    <span>B. the end-Cretaceous die-off of the dinosaurs and 
+             other animals.</span>,
+    <span>C. how Zealandia's isolation from the South Pole 
+             affected Zealandia's terrestrial mammals.</span>,
+    <span>D. seabirds' exposure to new climate zones.</span>,
 )
 
 new Question(
     34,
     <PassageFour/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `According to the passage, about 55 million years ago,
+    how did the average temperatures of Zealandia com-
+    pare to those of Antarctica?`,
+    <span>F. Zealandia was generally cooler than Antarctica.</span>,
+    <span>G. Zealandia was generally warmer than Antarctica.</span>,
+    <span>H. Temperatures in Zealandia were about the same as 
+             those in Antarctica.</span>,
+    <span>J. Temperatures in Zealandia were higher than 
+             Antarctica in the summer and lower in the winter.</span>,
 )
 
 new Question(
     35,
     <PassageFour/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `In the passage, the authors conclude that the humeral
+    arterial plexus mechanism emerged in penguin in con-
+    junction with a need to:`,
+    <span>A. survive in new climates closer to the equator.</span>,
+    <span>B. adapt to a temperate forested environment.</span>,
+    <span>C. forage in cool upwelling regions of the sea.</span>,
+    <span>D. swim long distances on warm ocean surfaces.</span>,
 )
 
 new Question(
     36,
     <PassageFour/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `According to the passage, which of the following
+    occurred as Zealandia drifted into the Pacific?`,
+    <span>F. A broad continental shelf formed around Gond-
+             wana, making Zealandia more isolated.</span>,
+    <span>G. Gondwana warmed, becoming a seabird paradise.</span>,
+    <span>H. Zealandia slowly became completely submerged.</span>,
+    <span>J. Zealandia's climate cooled and the landmass sank
+             lower in the seas.</span>,
 )
 
 new Question(
     37,
     <PassageFour/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `The passage indicates that penguins living in the
+    Cretaceous faced predation and competition for food
+    from:`,
+    <span>A. marine reptiles.</span>,
+    <span>B. large fish.</span>,
+    <span>C. other seabird species.</span>,
+    <span>D. squid.</span>,
 )
 
 new Question(
     38,
     <PassageFour/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `Based on the passage, which penguin fossil bones
+    yielded the most significant information for the
+    authors' study of penguins?`,
+    <span>F. Feet</span>,
+    <span>G. Chest</span>,
+    <span>H. Flippers</span>,
+    <span>J. Skull</span>,
 )
 
 new Question(
     39,
     <PassageFour/>,
-    ``,
-    <span>A. </span>,
-    <span>B. </span>,
-    <span>C. </span>,
-    <span>D. </span>,
+    `As it is used in line 45, the word "bears" most nearly 
+    means:`,
+    <span>A. produces.</span>,
+    <span>B. endures.</span>,
+    <span>C. exhibits.</span>,
+    <span>D. merits.</span>,
 )
 
 new Question(
     40,
     <PassageFour/>,
-    ``,
-    <span>F. </span>,
-    <span>G. </span>,
-    <span>H. </span>,
-    <span>J. </span>,
+    `The passage most strongly suggests that the markings
+    from the humeral plexus had likely gone unnoticed on
+    fossils because:`,
+    <span>F. modern penguin bones do not have such markings.</span>,
+    <span>G. the markings are difficult to distinguish from 
+             others on the humerus.</span>,
+    <span>H. the markings easily deteriorate over time.</span>,
+    <span>J. little scientific research has been devoted to early
+             penguin fossils.</span>,
 )
