@@ -1666,3 +1666,105 @@ new Question(
     <span>J. little scientific research has been devoted to early
              penguin fossils.</span>,
 )
+
+//A11, Reading
+new Question(
+    1,
+    <PassageOne/>,
+    `The passage can mostly reasonably be described as being divided into two sections that, taken together, explore:`,
+    <span>A. Michael's first week on the <em>Oronsay</em> as told from two perspectives, one being that 
+    of Michael's mother.</span>,
+    <span>B. elements of Michael's journey as told from two perspectives, one being that of Michael as a young boy.</span>,
+    <span>C. two outcomes of Michael's journey, both presented from the perspective of Michael as an adult.</span>,
+    <span>D. Michael's relationship ith his family, presented from the perspective of two of Michael's relatives.</span>,
+)
+
+new Question(
+    2,
+    <PassageOne/>,
+    `The description of the Oronsay as having seven levels, nine cooks, a veterinarian, a small jail, and chlorinated pools
+    (line 52-56) most strongly supports which of the following statements about the Oronsay or its passengers?`,
+    <span>F. "It felt as if a city had been added to the coast" (lines 3-4).</span>,
+    <span>G. "The cabin was below the levvel of the waves, so there was no porthole" (lines 18-19).</span>,
+    <span>H. "I do not know, even now, why he chose this solitude" (lines 26-27).</span>,
+    <span>J. </span>,
+)
+new Question(
+    3,
+    <PassageOne/>,
+    `As it is used in lines 65-66, the phrase "introduce me to the situation of the journey" most nearly means:`,
+    <span>A. list for the narrator the people he will likely meet on his trip.</span>,
+    <span>B. explain to the narrator what his mother knows about his trip.</span>,
+    <span>C. draw for the narrator a map of the exact route of his trip.</span>,
+    <span>D. prepare the narrator in general for the circumstances of his trip.</span>,
+)
+
+new Question(
+    4,
+    <PassageOne/>,
+    `Based on the passage, Michael's relatives arrange for and approach Michael's journey to England in a manner
+    that can best be described as:`,
+    <span>F. fearful and tense.</span>,
+    <span>G. excited and frantic.</span>,
+    <span>H. meticulous and generous.</span>,
+    <span>J. understated and matter-of-fact.</span>,
+)
+new Question(
+    5,
+    <PassageOne/>,
+    `The passage makes clear that once Michael boards the Oronsay, he feels that the city he is leaving has become:`,
+    <span>A. morally corrupt.</span>,
+    <span>B. physically shut off from him.</span>,
+    <span>C. aesthetically beautiful.</span>,
+    <span>D. figuratively lifted and carried with him.</span>,
+)
+
+new Question(
+    6,
+    <PassageOne/>,
+    `The main point of the second paragraph (lines 22-31) is for the narrator to analyze the circumstances of:`,
+    <span>F. Michael's relatives leaving the harbor as soon as Michael had boarded the Oronsay.</span>,
+    <span>G. Michael enjoying listening to families singing but refusing to join in with them.</span>,
+    <span>H. Michael not returning to the deck to wave goodbye to his relatives.</span>,
+    <span>J. Michael's relatives weeping as the Oronsay departed.</span>,
+)
+new Question(
+    7,
+    <PassageOne/>,
+    `The interaction between Michael and Flavia Prins that is described in the passage most strongly suggests that although
+    Prins has promised to keep an eye on Michael during his journey, she is:`,
+    <span>A. fairly indifferent to him and not particularly focused on his well-being.</span>,
+    <span>B. likely going to retrat her promise as a result of Michael's rude behavior during tea.</span>,
+    <span>C. planning to make sure someone else provides him with constant attention and care.</span>,
+    <span>D. intending to ignore him if not make certain that his journey is difficult.</span>,
+)
+
+new Question(
+    8,
+    <PassageOne/>,
+    `In the passage, Michael is metaphorically referred to as:`,
+    <span>F. a smuggler.</span>,
+    <span>G. rings and bangles.</span>,
+    <span>H. green grass.</span>,
+    <span>J. a little cricket.</span>,
+)
+new Question(
+    9,
+    <PassageOne/>,
+    `The passage indicated that Michael's journey to Englad will require:`,
+    <span>A. relying on the expertise of a team of captains.</span>,
+    <span>B. disembarking the Oronsay midjourney.</span>,
+    <span>C. avoiding traveling on the Red Sea.</span>,
+    <span>D. spending twenty-one days at sea.</span>,
+)
+
+new Question(
+    10,
+    <PassageOne/>,
+    `It can most reasonably be inferred from the passage that narrator counts the sandwiches his uncles eat
+    (lines 73-75) mainly because the narrator:`,
+    <span>F. wants to know how many sandwiches he will be given to eat once he boards the ship.</span>,
+    <span>G. hopes that his uncles like the sandwiches.</span>,
+    <span>H. feels bored as the adults converse.</span>,
+    <span>J. is nervous around his loud uncles.</span>,
+)
