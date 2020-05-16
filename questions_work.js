@@ -1685,9 +1685,9 @@ new Question(
     `The description of the Oronsay as having seven levels, nine cooks, a veterinarian, a small jail, and chlorinated pools
     (line 52-56) most strongly supports which of the following statements about the Oronsay or its passengers?`,
     <span>F. "It felt as if a city had been added to the coast" (lines 3-4).</span>,
-    <span>G. "The cabin was below the levvel of the waves, so there was no porthole" (lines 18-19).</span>,
+    <span>G. "The cabin was below the level of the waves, so there was no porthole" (lines 18-19).</span>,
     <span>H. "I do not know, even now, why he chose this solitude" (lines 26-27).</span>,
-    <span>J. </span>,
+    <span>J. "But now it had been arranged I would be travelling to England by ship" (lines 47-48).</span>,
 )
 new Question(
     3,
@@ -1734,7 +1734,7 @@ new Question(
     `The interaction between Michael and Flavia Prins that is described in the passage most strongly suggests that although
     Prins has promised to keep an eye on Michael during his journey, she is:`,
     <span>A. fairly indifferent to him and not particularly focused on his well-being.</span>,
-    <span>B. likely going to retrat her promise as a result of Michael's rude behavior during tea.</span>,
+    <span>B. likely going to retract her promise as a result of Michael's rude behavior during tea.</span>,
     <span>C. planning to make sure someone else provides him with constant attention and care.</span>,
     <span>D. intending to ignore him if not make certain that his journey is difficult.</span>,
 )
@@ -1751,7 +1751,7 @@ new Question(
 new Question(
     9,
     <PassageOne/>,
-    `The passage indicated that Michael's journey to Englad will require:`,
+    `The passage indicates that Michael's journey to England will require:`,
     <span>A. relying on the expertise of a team of captains.</span>,
     <span>B. disembarking the Oronsay midjourney.</span>,
     <span>C. avoiding traveling on the Red Sea.</span>,
@@ -1767,4 +1767,325 @@ new Question(
     <span>G. hopes that his uncles like the sandwiches.</span>,
     <span>H. feels bored as the adults converse.</span>,
     <span>J. is nervous around his loud uncles.</span>,
+)
+
+new Question(
+    11,
+    <PassageTwo/>,
+    `The author of Passage A mentions "a featherlight biscuit" and "a perfectly barbecued beef brisket" (lines 9-10) primarily to:`,
+    <span>A. contrast their deliciousness with the inferior taste of a dark and thick gumbo.</span>,
+    <span>B. offer additional examples of New Orleans cuisine that was, in the author's view, being corrupted.</span>,
+    <span>C. illustrate the types of authentic New Orleans food that tourists used to gravitate toward.</span>,
+    <span>D. provide examples of what the author views as real culinary successes, in contrast to dark gumbo.</span>,
+)
+
+new Question(
+    12,
+    <PassageTwo/>,
+    `It can reasonably be inferred that the author of Passage A thinks that in comparison to authentic Cajun cuisine, 
+    Prudhomme's "Louisiana cooking":`,
+    <span>F. demands less creativity.</span>,
+    <span>G. requires more discipline.</span>,
+    <span>H. is much easier to master.</span>,
+    <span>J. reflects broader influences.</span>,
+)
+
+new Question(
+    13,
+    <PassageTwo/>,
+    `The author of Passage A most directly indicates that he originally attributed the ruin of the gumbo universe to which of 
+    the following?`,
+    <span>A. Tourists monopolizing New Orleans's entire French Quarter</span>,
+    <span>B. The Cajun craze that took hold of the United State in the 1980s</span>,
+    <span>C. The sudden prevalence of chicken and andouille gumbo in the 1990s</span>,
+    <span>D. The pervasive influence of Prudhomme on New Orleans restaurants</span>,
+)
+
+new Question(
+    14,
+    <PassageTwo/>,
+    `The author of Passage B most strongly indicates that Syrnikov believes Russians tend not to favor their national cuisine 
+    mainly because:`,
+    <span>F. they are embarrassed by their country's agrarian history and want to distance themselves from it.</span>,
+    <span>G. the prejudices held by Russia's ruling class long ago led to a ban on traditional Russian cuisine.</span>,
+    <span>H. they consider food from other countries to be more appealing and more refined.</span>,
+    <span>J. only old women know how to make traditional Russian dishes like <em>shanishki</em>.</span>,
+)
+
+new Question(
+    15,
+    <PassageTwo/>,
+    `The author of Passage B describes some of Syrnikov's common activities in lines 75-81 primarily to:`,
+    <span>A. suggest that Syrnikov feels overwhelmed by the scope and number of his projects.</span>,
+    <span>B. emphasize Syrnikov's dedication to helping Russians rediscover their true culinary roots.</span>,
+    <span>C. imply that Syrnikov plans to open his own authentic Russian restaurant after completing his research.</span>,
+    <span>D. downplay Syrnikov's lack of culinary training by focusing on his experience with traditional folk recipes.</span>,
+)
+
+new Question(
+    16,
+    <PassageTwo/>,
+    `According to Passage B, Syrnikov makes which of the following claims regarding potatoes?`,
+    <span>F. Potatoes were once a staple ingredient in traditional Russian cuisine.</span>,
+    <span>G. Potatoes were grown throughout Russia until the twentieth century.</span>,
+    <span>H. Potatoes were unpopular in eighteenth-century Russia.</span>,
+    <span>J. Potatoes actually originated in Ukraine, not in Russia.</span>,
+)
+
+new Question(
+    17,
+    <PassageTwo/>,
+    `As he is presented in Passage B, Syrnikov most clearly indicates that he believes failing to record traditional
+    Russian folk recipe will:`,
+    <span>A. force Russian cuisine to reinvent itself.</span>,
+    <span>B. ruin his existing database of folk recipes.</span>,
+    <span>C. result in a significant loss of Russian culture.</span>,
+    <span>D. lead younger generations of Russians to learn folk recipes from their grandmothers.</span>,
+)
+
+new Question(
+    18,
+    <PassageTwo/>,
+    `Which of the following statements best captures a main difference in the focus of the two passages?`,
+    <span>F. Passage A focuses on the author's interactions with Prudhomme, while Passage B focuses on Syrnikov's 
+        frustration with the ignorance of the general Russian public.
+    </span>,
+    <span>G. Passage A focuses on how the tourist trade affected New Orleans cuisine, while Passage B focuses on how 
+        communities are working together to preserve authentic Russian fare.
+    </span>,
+    <span>H. Passage A focuses on the author's prejudice against food from non-Cajun cultures, while Passage B focuses 
+        on Syrnikov's attempt to spread awareness about what Russian cuisine truly is.
+    </span>,
+    <span>J. Passage A focuses on the author's struggle with public perception of authentic New Orleans food, while 
+        Passage B focuses on Syrnikov's efforts to correct misconceptions about Russian cuisine.
+    </span>,
+)
+
+new Question(
+    19,
+    <PassageTwo/>,
+    `With regard to their own region's authentic cuisine, both New Orleans transplants in Passage A and modern Russians in
+    Passage B are characterized as being:`,
+    <span>A. perplexed.</span>,
+    <span>B. disdainful.</span>,
+    <span>C. misinformed.</span>,
+    <span>D. knowledgeable.</span>,
+)
+
+new Question(
+    20,
+    <PassageTwo/>,
+    `Both passages support the idea that learning how to cook traditional and authentic regional food is best 
+    accomplished by:`,
+    <span>F. gleaning knowledge from cooks native to the area.</span>,
+    <span>G. studying under professional chefs in a restaurant.</span>,
+    <span>H. traveling and learning about other cultures' foods.</span>,
+    <span>J. receiving hands-on training in a culinary school.</span>,
+)
+
+new Question(
+    21,
+    <PassageThree/>,
+    `The structure of the passage can best be described as an interview in which the interviewee:`,
+    <span>A. defends herself against harsh commentary by the interviewer.</span>,
+    <span>B. challenges the interviewer, urging him to ask her relevant questions.</span>,
+    <span>C. turns questions asked to her back to the interviewer, inviting a casual dialogue.</span>,
+    <span>D. responds to the interviewer's questions with involved, abstract answers.</span>,
+)
+
+new Question(
+    22,
+    <PassageThree/>,
+    `In the passage, Morgan argues that, for the reader, landscape writing might feel particularly "interruptive or
+    'estranging'" (line 12) when it is presented:`,
+    <span>F. in an otherwise plot-driven novel.</span>,
+    <span>G. by an unskilled or inexperienced writer.</span>,
+    <span>H. at length and in an unconventional prose style.</span>,
+    <span>J. in the opening pages of a novel.</span>,
+)
+
+new Question(
+    23,
+    <PassageThree/>,
+    `Based on the passage, how would Morgan respond to a reader's complaint that landscape writing "draws attention to itself"
+    (line 16)?`,
+    <span>A. She would agree but claim that landscape writing also draws attention to land.</span>,
+    <span>B. She would agree but claim that if the writer had been focused, landscape writing should be engaging.</span>,
+    <span>C. She would disagree, arguing that landscape writing focuses solely on drawing attention to the land.</span>,
+    <span>D. She would disagree, arguing that some readers are simply not willing to read landscape writing.</span>,
+)
+
+new Question(
+    24,
+    <PassageThree/>,
+    `In the passage, Morgan most strongly suggests that a reader's attention to the land while reading a landscape 
+    narrative might lead the reader to:`,
+    <span>F. act to protect the land.</span>,
+    <span>G. forget that the land is in peril.</span>,
+    <span>H. misinterpret the writer's purpose.</span>,
+    <span>J. research the writer's academic background.</span>,
+)
+
+new Question(
+    25,
+    <PassageThree/>,
+    `As it is used in line 22, the word "marks most nearly refers to:`,
+    <span>A. creases and smudges.</span>,
+    <span>B. words and symbols.</span>,
+    <span>C. notches and ticks.</span>,
+    <span>D. lines and boundaries.</span>,
+)
+
+new Question(
+    26,
+    <PassageThree/>,
+    `As it is used in line 24, the phrase "that kind of beauty" most specifically refers to the beauty of the:`,
+    <span>F. human being.</span>,
+    <span>G. intellect.</span>,
+    <span>H. political act.</span>,
+    <span>J. land.</span>,
+)
+
+new Question(
+    27,
+    <PassageThree/>,
+    `The passages makes clear that, from a previous exchange with Morgan, Fabisiak knows that Morgan does not like to do which 
+    of the following?`,
+    <span>A. Interpret <em>All the Living</em> for her readers</span>,
+    <span>B. Tell her readers that, like the characters in <em>All the Living</em>, she lives in Kentucky</span>,
+    <span>C. Work ten hours a day every day</span>,
+    <span>D. Discuss which regions of the United States she plans to write about</span>,
+)
+
+new Question(
+    28,
+    <PassageThree/>,
+    `The passage most strongly suggest that Morgan focuses on depicting which types of work in her novel All the Living?`,
+    <span>F. Corporate or agrarian</span>,
+    <span>G. Agrarian or domestic</span>,
+    <span>H. Domestic or creative</span>,
+    <span>J. Creative or corporate</span>,
+)
+
+new Question(
+    29,
+    <PassageThree/>,
+    `Morgan directly compares a writer being expected to produce a novel every year or two years to the act of having to:`,
+    <span>A. work overtime.</span>,
+    <span>B. assemble products in a factory.</span>,
+    <span>C. punch a clock.</span>,
+    <span>D. sell goods on commission.</span>,
+)
+
+new Question(
+    30,
+    <PassageThree/>,
+    `In the passage, Morgan makes clear her perspective that an artist is serving people when that artist takes which of the 
+    following approaches to his or her work?`,
+    <span>F. Continually offering new work that the artist knows people will want to buy</span>,
+    <span>G. Regularly studying others' work and learning from it</span>,
+    <span>H. Creating and presenting work that the artist believes to be valuable</span>,
+    <span>J. Modifying the focus of the work when people's interest in it wanes</span>,
+)
+
+new Question(
+    31,
+    <PassageFour/>,
+    `The main purpose of the passage is to use the example of Millikan to show:`,
+    <span>A. how theory becomes accepted.</span>,
+    <span>B. that some well-accepted scientific ideas have a sullied past.</span>,
+    <span>C. the challenges scientists faced in measuring <em>e</em>.</span>,
+    <span>D. that some scientists get credit for work that is not their own.</span>,
+)
+
+new Question(
+    32,
+    <PassageFour/>,
+    `Based on the passage, the debate between Millikan and Ehrenhaft is best described as:`,
+    <span>F. tense; their professional reputations were at stake.</span>,
+    <span>G. unprofessional; they sabotaged each other's experiments.</span>,
+    <span>H. collegial; each wanted to push the other to create a stronger theory.</span>,
+    <span>J. indirect; although their work intersected along some lines, they were primarily working in different fields.</span>,
+)
+
+new Question(
+    33,
+    <PassageFour/>,
+    `The passage indicates that the debate regarding Millikan's integrity centers on:`,
+    <span>A. others' ability to replicate the results of Ehrenhaft's experiments more readily than those of Millikan's experiments.</span>,
+    <span>B. Millikan's decision to switch from using water droplets to oil droplets.</span>,
+    <span>C. certain statements Millikan made about the apparatus he used in his experiments.</span>,
+    <span>D. a discrepancy between data in Millikan's 1913 paper and information in his notebooks.</span>,
+)
+
+new Question(
+    34,
+    <PassageFour/>,
+    `It can reasonably be inferred that the passage author considers Millikan's decision to offer full disclosure in his 1910 paper as:`,
+    <span>F. an understandable mistake that most scientists rightfully avoid.</span>,
+    <span>G. an admirable choice with an unfortunate consequence.</span>,
+    <span>H. a strategic decision that paid off in the end.</span>,
+    <span>J. a naive decision revealing desperation.</span>,
+)
+
+new Question(
+    35,
+    <PassageFour/>,
+    `The passage indicates that in his experiment to measure 'e,' Millikan switched from water to oil droplets because:`,
+    <span>A. other physicists had found that oil droplets were easier to work with.</span>,
+    <span>B. with oil he found it easier to form droplets with little variation in size.</span>,
+    <span>C. oil droplets allowed him to take accurate measurements more consistently.</span>,
+    <span>D. oil droplets could be reused for other experiments.</span>,
+)
+
+new Question(
+    36,
+    <PassageFour/>,
+    `In the passage, the primary purpose of the ninth paragraph (ilnes 62-76) is to:`,
+    <span>F. present Goodstein's defense of Millikan's choices regarding the data reported in Millikan's 1913 paper.</span>,
+    <span>G. argue against Goodstein's interpretation of Millikan's motives.</span>,
+    <span>H. summarize the current prevailing view of Millikan's methods.</span>,
+    <span>J. offer an overview of Millikan's explanation of how he organized and presented his data.</span>,
+)
+
+new Question(
+    37,
+    <PassageFour/>,
+    `The passage indicates that Ehrenhaft's experiments led him to make which of the following assertions in refuting 
+    the claims in Millikan's 1910 paper?`,
+    <span>A. There is no electron.</span>,
+    <span>B. Millikan's value for <em>e</em> is too low.</span>,
+    <span>C. Millikan failed to take prevailing scientists theories into account.</span>,
+    <span>D. The value of <em>e</em> varies with the substance one is measuring.</span>,
+)
+
+new Question(
+    38,
+    <PassageFour/>,
+    `Based on the passage, the author's assertion that Millikan's experiments "were to cast a lasting shadow over his 
+    scientific integrity" (lines 32-33) is best described as:`,
+    <span>F. an opinion based on casual assumptions about scientists working in the early 1900s.</span>,
+    <span>G. an opinion based on the passage author's efforts to imagine himself in Millikan's position.</span>,
+    <span>H. a reasoned judgment based on consideration of the debate sparked by these experiments.</span>,
+    <span>J. a fact that Millikan clearly explains in his notebooks.</span>,
+)
+
+new Question(
+    39,
+    <PassageFour/>,
+    `The passage author references Lewontin and Goodstein in the sixth paragraph (lines 34-38) primarily in order to:`,
+    <span>A. identify two leading arguments about Millikan's methodology.</span>,
+    <span>B. explain how a scientist's background might influence his or her opinion of Millikan's findings.</span>,
+    <span>C. emphasize that current experiments on the electron contradict Millikan's findings.</span>,
+    <span>D. highlight the difficulty Millikan's contemporaries had in replicating Millikan's experiments.</span>,
+)
+
+new Question(
+    40,
+    <PassageFour/>,
+    `As it is used in line 39, the phrase "hangs on" most nearly means:`,
+    <span>F. continues.</span>,
+    <span>G. depends on.</span>,
+    <span>H. sticks with.</span>,
+    <span>J. blames on.</span>,
 )
